@@ -1,47 +1,12 @@
 # Hi there! 👋
 
 <div align="center">
-  <!-- Snowfall Container -->
-  <div style="position: relative; overflow: hidden; min-height: 200px; background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); border-radius: 10px; padding: 20px;">
-    <!-- Snowflakes -->
-    <div style="position: absolute; top: -10px; left: 10%; width: 4px; height: 4px; background: white; border-radius: 50%; animation: snowfall 8s linear infinite; opacity: 0.8;"></div>
-    <div style="position: absolute; top: -10px; left: 20%; width: 3px; height: 3px; background: white; border-radius: 50%; animation: snowfall 10s linear infinite 1s; opacity: 0.6;"></div>
-    <div style="position: absolute; top: -10px; left: 30%; width: 5px; height: 5px; background: white; border-radius: 50%; animation: snowfall 12s linear infinite 2s; opacity: 0.9;"></div>
-    <div style="position: absolute; top: -10px; left: 40%; width: 2px; height: 2px; background: white; border-radius: 50%; animation: snowfall 9s linear infinite 0.5s; opacity: 0.7;"></div>
-    <div style="position: absolute; top: -10px; left: 50%; width: 4px; height: 4px; background: white; border-radius: 50%; animation: snowfall 11s linear infinite 1.5s; opacity: 0.8;"></div>
-    <div style="position: absolute; top: -10px; left: 60%; width: 3px; height: 3px; background: white; border-radius: 50%; animation: snowfall 13s linear infinite 3s; opacity: 0.6;"></div>
-    <div style="position: absolute; top: -10px; left: 70%; width: 5px; height: 5px; background: white; border-radius: 50%; animation: snowfall 8s linear infinite 2.5s; opacity: 0.9;"></div>
-    <div style="position: absolute; top: -10px; left: 80%; width: 2px; height: 2px; background: white; border-radius: 50%; animation: snowfall 10s linear infinite 4s; opacity: 0.7;"></div>
-    <div style="position: absolute; top: -10px; left: 90%; width: 4px; height: 4px; background: white; border-radius: 50%; animation: snowfall 14s linear infinite 1s; opacity: 0.8;"></div>
-    <div style="position: absolute; top: -10px; left: 15%; width: 3px; height: 3px; background: white; border-radius: 50%; animation: snowfall 9s linear infinite 3.5s; opacity: 0.6;"></div>
-    <div style="position: absolute; top: -10px; left: 25%; width: 2px; height: 2px; background: white; border-radius: 50%; animation: snowfall 11s linear infinite 0.8s; opacity: 0.7;"></div>
-    <div style="position: absolute; top: -10px; left: 35%; width: 4px; height: 4px; background: white; border-radius: 50%; animation: snowfall 12s linear infinite 2.2s; opacity: 0.8;"></div>
-    <div style="position: absolute; top: -10px; left: 45%; width: 5px; height: 5px; background: white; border-radius: 50%; animation: snowfall 8s linear infinite 4.5s; opacity: 0.9;"></div>
-    <div style="position: absolute; top: -10px; left: 55%; width: 3px; height: 3px; background: white; border-radius: 50%; animation: snowfall 13s linear infinite 1.8s; opacity: 0.6;"></div>
-    <div style="position: absolute; top: -10px; left: 65%; width: 2px; height: 2px; background: white; border-radius: 50%; animation: snowfall 10s linear infinite 3.8s; opacity: 0.7;"></div>
-    <div style="position: absolute; top: -10px; left: 75%; width: 4px; height: 4px; background: white; border-radius: 50%; animation: snowfall 9s linear infinite 0.3s; opacity: 0.8;"></div>
-    <div style="position: absolute; top: -10px; left: 85%; width: 3px; height: 3px; background: white; border-radius: 50%; animation: snowfall 14s linear infinite 2.8s; opacity: 0.6;"></div>
-    <div style="position: absolute; top: -10px; left: 95%; width: 5px; height: 5px; background: white; border-radius: 50%; animation: snowfall 11s linear infinite 4.2s; opacity: 0.9;"></div>
-    
-    <!-- Typing Animation -->
-    <div style="position: relative; z-index: 10;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Welcome+to+my+profile!" alt="Typing SVG" />
-    </div>
-  </div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20❄️&descAlignY=51&descAlign=50" />
 </div>
 
-<style>
-@keyframes snowfall {
-  0% {
-    transform: translateY(-10px) translateX(0px);
-    opacity: 1;
-  }
-  100% {
-    transform: translateY(220px) translateX(20px);
-    opacity: 0;
-  }
-}
-</style>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Welcome+to+my+profile!" alt="Typing SVG" />
+</div>
 
 ## 🚀 About Me
 
