@@ -8,12 +8,12 @@
 
 I'm a passionate software developer who loves creating innovative solutions and exploring new technologies. I enjoy working on both frontend and backend projects, and I'm always eager to learn something new!
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
+- 🔭 I'm currently working on **[J-Bitcoin](https://github.com/yfbsei/J-Bitcoin)** - Building the future of cryptocurrency and blockchain
+- 🌱 I'm currently learning **Machine Learning & AI** 🤖 - Diving deep into neural networks, deep learning, and exploring the fascinating world of artificial intelligence
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, React, or anything tech-related**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 📫 How to reach me: **yfbsei@yandex.com**
+- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes and I believe the best code is written at 3 AM with good music! 🎵🧩**
 
 ## 🛠️ Tech Stack
 
