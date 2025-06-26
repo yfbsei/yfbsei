@@ -8,7 +8,7 @@
 
 I'm a passionate software developer who loves creating innovative solutions and exploring new technologies. I enjoy working on both frontend and backend projects, and I'm always eager to learn something new!
 
-- 🔭 I'm currently working on **[J-Bitcoin](https://github.com/yfbsei/J-Bitcoin)** - Building the future of cryptocurrency and blockchain
+- 🔭 I'm currently working on **[J-Bitcoin](https://github.com/yfbsei/J-Bitcoin)** - Building the future of cryptocurrency & blockchain
 - 🌱 I'm currently learning **Machine Learning & AI** 🤖 - Diving deep into neural networks, deep learning, and exploring the fascinating world of artificial intelligence
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, React, or anything tech-related**
@@ -95,10 +95,7 @@ I'm a passionate software developer who loves creating innovative solutions and 
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yfbsei@yandex.com)
 
 </div>
 
@@ -106,8 +103,7 @@ I'm a passionate software developer who loves creating innovative solutions and 
 
 <div align="center">
   
-[![Buy Me A Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
-[![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourusername)
+[![Buy Me A Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jamallo)
 
 </div>
 
